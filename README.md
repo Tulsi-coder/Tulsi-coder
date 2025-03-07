@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Tulsi Ghimire]! 👋
 
 Welcome to my GitHub profile! I’m a passionate [Your Role/Title, e.g., Software Engineer, Data Scientist] with a love for building innovative solutions, exploring new technologies, and contributing to the open-source community.
 
