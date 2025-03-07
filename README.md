@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a passionate [Data analyst] with a love for 
 
 - 🎯 **Role:** [Data analyst]
 - 🏢 **Current Company/Organization:** [Company Name or Freelance]
-- 📍 **Location:** [29215 Alpine Garden Dr Katy, Tx 774894]
+- 📍 **Location:** [29215 Alpine Garden Dr Katy, TX 77494]
 - 🎓 **Education:** [Degree, University]
 - 📫 **Contact:** [Your Email or LinkedIn]
 - 🌐 **Website/Portfolio:** [Your Website URL]
