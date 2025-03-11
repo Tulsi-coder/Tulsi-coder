@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I’m a passionate [Data analyst] with a love for 
 ## 📊 **About Me**
 
 - 🎯 **Role:** [Data analyst]
-- 🏢 **Current Company/Organization:** [Company Name or Freelance]
+- 🏢 **Current Company/Organization:** [Company Name]
 - 📍 **Location:** [29215 Alpine Garden Dr Katy, TX 77494]
-- 🎓 **Education:** [Degree, University]
-- 📫 **Contact:** [Your Email or LinkedIn]
-- 🌐 **Website/Portfolio:** [Your Website URL]
+- 🎓 **Education:** [Master in Accounting with minor Data modeling and data warehousing, from University of houston downtown]
+- 📫 **Contact:** [tghimire146@gmail.com or LinkedIn]
+- 🌐 **Website/Portfolio:** [Your Website URL- ]
 
 ---
 
